@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Arun S 👋
 
-<!--
-**ditindia8892/ditindia8892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software QA Automation Engineer with over 6.5 years of experience in ensuring software quality. My career journey is a bit unique—I started as an Electronics and Communication Engineering Professor and GATE faculty before moving into the IT industry to pursue my passion for software testing and automation. 
 
-Here are some ideas to get you started:
+I am always eager to learn new tools and upgrade my automation skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Java, JavaScript 
+*   **Test Automation:** Selenium WebDriver, Playwright, Cypress
+*   **Frameworks:** TestNG, Cucumber (BDD)
+*   **CI/CD & DevOps:** Jenkins, Docker, AWS
+*   **Other Tools:** Maven, Git, GitHub
+
+### 📫 How to reach me
+*   **Email:** arunditindia@gmail.com
+*   **LinkedIn:** [Arun S](https://www.linkedin.com/in/arun-s-dit9292/)
